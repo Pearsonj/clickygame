@@ -6,7 +6,7 @@ function FriendCard(props) {
   return (
     <div className="Image">
       <div className="img-container" >
-        <img alt={props.type.name} src={props.type.image} className="img" ></img>
+        <img alt={props.type.name} src={props.type.image} className="img" onClick= {() => props.handleIncrement(props.type.id)} ></img>
       </div>
     </div>
   );
