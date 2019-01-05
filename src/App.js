@@ -26,7 +26,7 @@ export default class App extends Component {
     let index;
     for(let i = 0; i < friends.length; i++) {
       if(friends[i].id === id) {
-        index = i;
+        index = i; 
       }
     } 
     if(friends[index].click){

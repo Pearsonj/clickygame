@@ -1,7 +1,8 @@
 import React from "react";
 import "./style.css";
 
-function FriendCard(props) {
+function FriendCard(props) 
+{
   console.log(props);
   return (
     <div className="Image">

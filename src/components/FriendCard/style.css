@@ -1,5 +1,3 @@
-
-
 .img{
   width: 10rem;
   height: auto;
@@ -17,6 +15,7 @@
   text-align: center;
   background:#6CADDC;
 }
+
 .card > .img-container > img {
   width: 60%
 }
