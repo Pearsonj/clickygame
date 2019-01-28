@@ -1,5 +1,7 @@
 ## Welcome To My Guessing Game React Web Application
 
+
+
 This is a simple memory game that requires you to try and get the highest score by not clicking on the same picture twice!
 
 ## This App Uses
