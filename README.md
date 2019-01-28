@@ -1,6 +1,6 @@
 ## Welcome To My Guessing Game React Web Application
 
-![alt text](https://raw.githubusercontent.com/Pearsonj/clickygame/master/Clicky.png)
+![alt text](https://raw.githubusercontent.com/Pearsonj/clickygame/blob/master/Clicky.PNG)
 
 This is a simple memory game that requires you to try and get the highest score by not clicking on the same picture twice!
 
