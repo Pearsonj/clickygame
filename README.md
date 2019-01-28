@@ -1,4 +1,4 @@
-## Welcome To My Guessing Game React Web Application
+## Guessing Game Made with React
 
 ![alt text](https://raw.githubusercontent.com/Pearsonj/clickygame/master/Clicky.PNG)
 
